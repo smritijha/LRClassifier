@@ -1,5 +1,5 @@
 #Overview
-train_SGD.py runs a Logistic Regression Classifier with Stochastic Gradient Descent classifier to predict if a user ends up buying a product or not
+train_SGD.py runs a Logistic Regression Classifier with Stochastic Gradient Descent to predict if a user ends up buying a product or not
 
 #Python Libraries Pre-Requisites:
 scikit-learn, numpy, scipy
